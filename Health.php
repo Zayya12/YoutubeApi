@@ -3,7 +3,7 @@
 {
 "id":1 ,
 "name":"Item-1",
-"img":"https://itpoekar.com/?attachment_id=25532"
+"img":"https://i1.wp.com/itpoekar.com/wp-content/uploads/2019/03/3-6.jpg "
 },
 {
 "id":2,
